@@ -1,0 +1,17 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.colors_square {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /*margin-top: 250px;*/
+    margin: 250px auto 0 ;
+    height: 200px;
+    width: 200px;
+    background-color: white;
+    border: 2px solid red;
+}
